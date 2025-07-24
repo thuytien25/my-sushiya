@@ -1,0 +1,9 @@
+@import url("sections/header.css");
+
+:root{
+  --primary-color:#b1454a;
+  --secondary-color:#fff0de;
+
+  --plus-jakarta-sans:"Plus Jakarta Sans",
+    sans-serif;
+}
